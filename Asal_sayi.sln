@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asal_sayi", "Asal_sayi\Asal_sayi.csproj", "{CBCE9AAC-9633-4594-9DDE-8A7C05F8B1AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCE9AAC-9633-4594-9DDE-8A7C05F8B1AC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CBCE9AAC-9633-4594-9DDE-8A7C05F8B1AC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CBCE9AAC-9633-4594-9DDE-8A7C05F8B1AC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CBCE9AAC-9633-4594-9DDE-8A7C05F8B1AC}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
